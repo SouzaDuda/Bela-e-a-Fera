@@ -7,3 +7,12 @@ Este é um repositório dedicado a documentação de um aplicativo relacionado a
 Nome: Maria Eduarda da Silva Souza, 3º Jogos Digitais - 2025
 
 ## Lista de links da wiki
+
+**Home** <br>
+<br>
+https://github.com/SouzaDuda/Bela-e-a-Fera/wiki
+> https://github.com/SouzaDuda/Bela-e-a-Fera/wiki#pr%C3%A9-requisitos <br>
+
+**Protótipo** <br>
+<br>
+https://github.com/SouzaDuda/Bela-e-a-Fera/wiki/Prot%C3%B3tipo
