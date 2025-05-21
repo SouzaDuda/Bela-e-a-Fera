@@ -9,10 +9,7 @@ Nome: Maria Eduarda da Silva Souza, 3º Jogos Digitais - 2025
 ## Lista de links da wiki
 
 **Home** <br>
-<br>
-https://github.com/SouzaDuda/Bela-e-a-Fera/wiki
-> https://github.com/SouzaDuda/Bela-e-a-Fera/wiki#pr%C3%A9-requisitos <br>
+> https://github.com/SouzaDuda/Bela-e-a-Fera/wiki
 
 **Protótipo** <br>
-<br>
-https://github.com/SouzaDuda/Bela-e-a-Fera/wiki/Prot%C3%B3tipo
+> https://github.com/SouzaDuda/Bela-e-a-Fera/wiki/Prot%C3%B3tipo
