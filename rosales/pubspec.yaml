@@ -1,0 +1,43 @@
+name: rosales
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  carousel_slider: ^5.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  url_launcher: ^6.3.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/img/B1.jpeg
+    - assets/img/B2.jpg
+    - assets/img/B3.jpg
+    - assets/img/B5.png
+    - assets/img/B7.jpeg
+    - assets/img/andre.jpg
+    - assets/img/audrey.jpeg
+    - assets/img/eduardo.jpg
+    - assets/img/gans.jpg
+    - assets/img/jeanne.jpg
+    - assets/img/jonathan.jpg
+    - assets/img/lea.jpg
+    - assets/img/nicolas.jpg
+    - assets/img/sandra.jpg
+    - assets/img/sara.jpg
+    - assets/img/vincent.jpg
+    - assets/img/studio.png
+    - assets/img/pathe.jpeg
+    - assets/img/eskwad.jpeg
